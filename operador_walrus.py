@@ -22,5 +22,5 @@ Operador Walrus
 
 # Python 3.8 com Walrus
 cesta = []
-while (fruta := input("Informe a fruta: "))  != "jaca":
+while (fruta := input("Informe a fruta: ")) != "jaca":
     cesta.append(fruta)
